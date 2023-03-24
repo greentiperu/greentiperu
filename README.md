@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hola 👋, somos Greenti.pe</h1>
 <h3 align="center">En Greenti, nos apasiona desarrollar software de alta calidad para pequeñas y medianas empresas. Ofrecemos una amplia gama de servicios, desde el desarrollo de aplicaciones móviles hasta la automatización de procesos comerciales, con un enfoque centrado en el cliente y soluciones rentables y efectivas. Además de nuestras soluciones de software, también ofrecemos educación en línea 100% efectiva y en vivo. Entre nuestros cursos se encuentran: Flutter NodeJs ReactJs NetCore Figma (UX/UI) Si está buscando un socio confiable comprometido con la excelencia, Greenti es la opción correcta para usted.</h3> <p align="left"> <img
 
@@ -29,6 +27,7 @@ src ="https://komarev.com/ghpvc/?username=greentiperu&label=Perfil%20views&color
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greentiperu&show_icons=true&locale=en&layout=compact" alt="greentiperu" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=greentiperu&show_icons=true&locale=en" alt="greentiperu" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=greentiperu&show_icons=true&locale=en" alt="greentiperu" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greentiperu&" alt="greentiperu" /></p>
+
