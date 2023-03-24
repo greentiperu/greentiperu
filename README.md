@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, somos Greenti.pe</h1>
-<h3 align="center">En Greenti, nos apasiona desarrollar software de alta calidad para pequeñas y medianas empresas. Ofrecemos una amplia gama de servicios, desde el desarrollo de aplicaciones móviles hasta la automatización de procesos comerciales, con un enfoque centrado en el cliente y soluciones rentables y efectivas. Además de nuestras soluciones de software, también ofrecemos educación en línea 100% efectiva y en vivo. Entre nuestros cursos se encuentran: Flutter NodeJs ReactJs NetCore Figma (UX/UI) Si está buscando un socio confiable comprometido con la excelencia, Greenti es la opción correcta para usted.</h3> <p align="left"> <img
+<p>En Greenti, nos apasiona desarrollar software de alta calidad para pequeñas y medianas empresas. Ofrecemos una amplia gama de servicios, desde el desarrollo de aplicaciones móviles hasta la automatización de procesos comerciales, con un enfoque centrado en el cliente y soluciones rentables y efectivas. Además de nuestras soluciones de software, también ofrecemos educación en línea 100% efectiva y en vivo. Entre nuestros cursos se encuentran: Flutter NodeJs ReactJs NetCore Figma (UX/UI) Si está buscando un socio confiable comprometido con la excelencia, Greenti es la opción correcta para usted.</p>
+<p align="left"> 
+  <img
 
 src ="https://komarev.com/ghpvc/?username=greentiperu&label=Perfil%20views&color=0e75b6&style=flat"
 
