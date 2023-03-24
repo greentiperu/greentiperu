@@ -20,16 +20,16 @@
   <img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="greenti.pe" height= "30" ancho="40" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/greentiperu/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/greentiperu /" alto="30" ancho="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/greentiperu /" height= "30" ancho="40" />
 </a>
 <a href="https://fb.com/https://www.facebook.com/greentiperu" target="blank">
-  < img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/greentiperu" altura="30" ancho="40" />
+  < img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/greentiperu" height= "30" ancho="40" />
   </a>
 <a href="https://instagram.com/https://www.instagram.com/greenti.pe/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/greenti.pe/" height="30 "ancho="40" />
   </a>
 <a href="https://www.youtube.com/c/https://www.tiktok.com/@greenti.pe" target="blanco"> 
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https:/ /www.tiktok.com/@greenti.pe" altura="30" ancho="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https:/ /www.tiktok.com/@greenti.pe" height= "30" ancho="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
