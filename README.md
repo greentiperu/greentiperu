@@ -2,9 +2,7 @@
 <p>At Greenti, we are passionate about developing high-quality software for small and medium-sized businesses. We offer a wide range of services, from mobile app development to business process automation, with a customer-centric approach and cost-effective and effective solutions.  In addition to our software solutions, we also offer 100% effective and live online education. Among our courses are:  Flutter NodeJs ReactJs NetCore Figma (UX/UI) 
 <br/>If you are looking for a reliable partner committed to excellence, Greenti is the right choice for you.</p>
 <p align="left"> 
-  <img
-
-src ="https://komarev.com/ghpvc/?username=greentiperu&label=Perfil%20views&color=0e75b6&style=flat"
+  <img src ="https://komarev.com/ghpvc/?username=greentiperu&label=Perfil%20views&color=0e75b6&style=flat"/>
 
 - 🔭 Actualmente estoy trabajando en **Sistema de ventas y proyectos internos**
 
