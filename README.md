@@ -33,20 +33,24 @@
 <h3 align="left">Idiomas y herramientas:</h3>
 
 <p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" ancho="40" altura="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank " rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height= "30" width="40" /> 
-  </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height= "40" width="40" /> 
+</a> 
   
+<a href="https://www.w3schools.com/cs/" target="_blank " rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height= "40" width="40" /> 
+</a> 
   
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height= "30" width="40" />
- </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height= "40" width="40" />
+</a> 
+  
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height= "30" width="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height= "40" width="40"/> 
  </a> 
   
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height= "30" width="40" /> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height= "40" width="40" /> 
 </a> 
 
 <a href="https://flutter.dev" target=" _blank" rel="noreferrer"> 
